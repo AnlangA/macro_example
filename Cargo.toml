@@ -1,0 +1,6 @@
+[workspace]
+relsove = 2
+members = [
+    "pro",
+    "hello"
+]
